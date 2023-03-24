@@ -16,6 +16,11 @@ Exploring potential of Large Language Model such as ChatGPT with prompting and e
 * [mmabrouk/chatgpt-wrapper: API for interacting with ChatGPT using Python and from Shell.](https://github.com/mmabrouk/chatgpt-wrapper)
 * [transitive-bullshit/chatgpt-api: Node.js client for the unofficial ChatGPT API. 🔥](https://github.com/transitive-bullshit/chatgpt-api)
 
+#### Free
+
+* [ztjhz/FreeChatGPT: An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!](https://github.com/ztjhz/FreeChatGPT)
+* [ayaka14732/ChatGPTAPIFree: A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!](https://github.com/ayaka14732/ChatGPTAPIFree)
+
 ### ChatGPT Prompt
 
 * [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
