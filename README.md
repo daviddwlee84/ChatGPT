@@ -19,6 +19,7 @@ Exploring potential of Large Language Model such as ChatGPT with prompting and e
 #### Free
 
 * [ztjhz/FreeChatGPT: An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!](https://github.com/ztjhz/FreeChatGPT)
+  * [Free ChatGPT](https://freechatgpt.chat/)
 * [ayaka14732/ChatGPTAPIFree: A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!](https://github.com/ayaka14732/ChatGPTAPIFree)
 
 ### ChatGPT Prompt
