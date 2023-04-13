@@ -2,6 +2,22 @@
 
 Exploring potential of Large Language Model such as ChatGPT with prompting and end-to-end examples.
 
+## Projects
+
+| Subject                                                     | Purpose                                                     |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| [GPT3](GPT3/)                                               | Try simple prompts with Azure OpenAI API                    |
+| [PaperSummarizer](PaperSummarizer/)                         | Try free ChatGPT (Selenium-based approach; not working now) |
+| [ChatWithDocument](LangChain/ChatWithDocument/) (submodule) | Knowledge QA System (LangChain + ANN recall)                |
+| [Training](Training/)                                       | Pre-train and Fine-tune the LLM                             |
+
+## Todo
+
+* [ ] Fine-tune GPT2
+* [ ] Try RLHF on smaller model (shows before and after)
+
+---
+
 ## ChatGPT
 
 * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
@@ -45,7 +61,7 @@ Exploring potential of Large Language Model such as ChatGPT with prompting and e
 Try Projects
 
 * [ ] [jerryjliu/gpt_index: GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.](https://github.com/jerryjliu/gpt_index)
-* [ ] [hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
+* [X] [hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
   * [ ] [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)
 
 Read Papers
