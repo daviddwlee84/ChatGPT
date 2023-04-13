@@ -1,0 +1,3 @@
+[submodule "LangChain/ChatWithDocument"]
+	path = LangChain/ChatWithDocument
+	url = https://github.com/daviddwlee84/ChatWithDocument.git
